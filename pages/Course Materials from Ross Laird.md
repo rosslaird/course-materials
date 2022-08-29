@@ -1,1 +1,3 @@
-- This is a public Logseq graph that contains resources for the courses taught by Ross Laird at Kwantlen Polytechn
+- This is a public Logseq graph that contains resources for the courses taught by Ross Laird at Kwantlen Polytechnic University. If you are a learner in one of these courses, please click the relevant course in the list below.
+	- [[Creative Writing 4130: Advanced Creative Nonfiction]]
+	-
