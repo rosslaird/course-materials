@@ -6,18 +6,4 @@
 	- {{embed ((630d2389-1a03-4e95-b18f-b9b9545da70a))}}
 	- {{embed ((630d2389-5937-437e-b934-84d77fbd763f))}}
 	- {{embed ((630d2389-c7d1-4e3e-b94d-fb793be27331))}}
-	-
-	- Each item on the above list is an aspect of the first item: self-awareness. The most foundational skill in creativity is self-awareness. Those who develop this skill consistently query their own responses, thoughts, and feelings. They ask themselves:
-		- What am I feeling right now?
-		- What am I thinking right now?
-		- Why am I reacting in this particular way?
-		- What do my thoughts, feelings, and reactions tell me about myself?
-		- Is there anything about my current behavior that suggests unresolved themes in my life?
-		- Is my perception of myself consistent with what other people tell me about the kind of person I am?
-		- When and how do I get stuck, and what am I doing to work on this?
-		- In what ways do I get overwhelmed, or shut down, or avoid?
-		- How can I use my insights about myself to grow as a person and to improve and deepen my relationships with others?
-	- > 
-	    
-	  
-	  There is, I think, no point in the philosophy of progressive education which is sounder than its emphasis upon the importance of the participation of the learner in the formation of the purposes which direct their activities in the learning process.
+- In turn, the criteria used in assessment and evaluation mirror and amplify these structural and philos
