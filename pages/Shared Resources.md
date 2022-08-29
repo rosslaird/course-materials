@@ -1,4 +1,5 @@
 - Instructor Details
+  collapsed:: true
 	- Ross Laird, PhD RCC
 	- Website: [rosslaird.com](https://rosslaird.com/)
 	- Email: [mailto:ross.laird@kpu.ca](ross.laird@kpu.ca)
@@ -6,11 +7,14 @@
 	- Pronouns: he/him/his
 	- [How to pronounce](https://namedrop.io/rosslaird) Ross Laird
 - Office Hours and Meetings
+  collapsed:: true
 	- Office hours and meetings are by appointment (in the library or via Zoom).
 	  Response time to emails: typically 48 hours except on weekends or holidays, when response times will be adjusted to the next business day (the Monday following a weekend, for example). Please use Ross's KPU email address for sending queries: [ross.laird@kpu.ca](mailto:ross.laird@kpu.ca) (not Twitter or the contact form on Ross's website).
 - Asking for Help
+  collapsed:: true
 	- You can ask for help anytime. Generally, people learn more deeply when they figure things out in their own ways — but everyone has a limit beyond which they just get frustrated and unproductive. A little bit of frustration is good; overwhelm is not. So, give things a try before you ask for help. But if you've been working on something for a long while and you aren't making any progress, [reach out](mailto:ross.laird@kpu.ca).
 - University Policies
+  collapsed:: true
 	- [HR15 – Diversity and Inclusiveness](https://www.google.com/url?client=internal-element-cse&cx=011299098552178762367:asix4myddgk&q=https://www.kpu.ca/sites/default/files/Policies/HR15%2520Diversity%2520and%2520Inclusiveness%2520Policy.pdf&sa=U&ved=2ahUKEwjQ9M6lhdv5AhVRIjQIHRGZCE8QFnoECAUQAg&usg=AOvVaw3wOMmc4-XBZGVwrpSpa_pv)
 	- [ST2 – Student Academic Integrity](https://www.google.com/url?client=internal-element-cse&cx=011299098552178762367:asix4myddgk&q=https://www.kpu.ca/sites/default/files/Policies/ST2%2520Student%2520Academic%2520Integrity%2520Procedure.pdf&sa=U&ved=2ahUKEwj17PGThdv5AhXvGTQIHXgGBG4QFnoECAYQAg&usg=AOvVaw35Tll8HYL1S6xm_tyttsfK)
 	- [ST7 – Student Conduct (Non-Academic)](https://www.google.com/url?client=internal-element-cse&cx=011299098552178762367:asix4myddgk&q=https://www.kpu.ca/sites/default/files/Policies/ST7%2520Student%2520Conduct%2520Non%2520Academic%2520Policy.pdf&sa=U&ved=2ahUKEwjeh-uKhdv5AhUOLkQIHa2gBzEQFnoECAMQAg&usg=AOvVaw19w1D6Du9IcMisGXh7FHeO)
@@ -18,6 +22,7 @@
 - Assessment and Evaluation
   collapsed:: true
 	- The principles and methods used in this class are grounded in a large body of evidence-based [educational research](https://www.rosslaird.com/articles/education/developing-knowledge/) that emphasizes the importance of self-directed, internally-motivated, meaningful learning experiences. The results of that research clearly indicate that an effective learning environment should have the following elements:
+	  collapsed:: true
 		- _Emotional safety_: a person-centered environment, with emphasis on belonging, being seen, and encouragement for safe exploration (which includes things like making mistakes, trying again, and reversing course)
 		  id:: 630d2389-eb7e-474a-a9ad-191070e258fa
 		- _Trust_: a focus on healthy relationships, authenticity, consistency, congruence, and dependable and ethical action (for instructors as well as learners)
@@ -27,6 +32,7 @@
 		- _Empathy_: an emotionally safe community, with safe feelings and processes, an emphasis on positive change, and encouragement of emotional openness
 		  id:: 630d2389-c7d1-4e3e-b94d-fb793be27331
 	- The learning environment in this class is designed to implement the principles outlined above. In turn, methods of evaluation, grading, and assessment follow the same principles. Here are the specific evaluation criteria that are used for each project (they are the same for each project):
+	  collapsed:: true
 		- Taking personal responsibility for the motivation and self-awareness required for meaningful learning
 		  id:: 630d2389-957f-4c60-a7f3-4e412544fb49
 		- Challenging oneself, especially with the discomfort of encountering new things
@@ -48,6 +54,7 @@
 		- Showing up and doing the work
 		  id:: 630d2389-c7ef-47ab-917d-4c70eb00189c
 - General Timelines for Projects
+  collapsed:: true
 	- There are 3 projects for this class. All of the projects are assigned in week 1 and all are due at the end of week 12. Each project is intended to occupy 4 weeks of the course, and _optional_ due dates (in weeks 4 and 8) are associated with the first 2 projects for that purpose. The 3rd project has a fixed deadline at the end of week 12.
 	- Any project may be submitted at any time until the end of week 12.
 	- There are no late penalties for projects submitted at any time before the end of week 12 (as such projects are not late until _after_ the end of week 12).
@@ -55,7 +62,9 @@
 	- If circumstances beyond your control cause you to miss the week 12 deadline, please contact the instructor _before_ the end of week 12. After the end of week 12, university policies and deadlines come into play which may make it challenging to accommodate learners who seek consideration for complex circumstances.
 	- When learners are penalized for submitting projects that take longer than expected or intended, they learn more about compliance and control than they do about motivation and exploration. At the same time, this class is taking place in the context of a traditional university setting in which semester deadlines exist and grades must be submitted within a fixed time frame.
 - Specific Timelines for Fall 2022
+  collapsed:: true
 	- The following are suggested, optional timelines and due dates for the various projects. You are not required to follow these guidelines — except for the final deadline, which is **November 30**. _Everything is due by that date_.
+	  collapsed:: true
 		- September 6—30: project 1
 		- September 30: provisional submission date for project 1
 		- October 1—31: project 2
@@ -63,16 +72,21 @@
 		- November 1—30: project 3
 		- **November 30: all projects due**
 	- Multiple Project Reviews
+	  collapsed:: true
 		- Writing is an iterative process, and later drafts are often better than previous ones (especially if you are attentive to [[feedback]]. To encourage iteration and improvement, you are welcome to submit any project as many times as you like — until the end of week 11 (at which point the week 12 deadline is too close for further project reviews by the instructor and effective responses by the learner).
 		- You can submit any project as many times as you like — until the end of week 11 (at which point the week 12 deadline is too close for further project reviews by the instructor and effective responses by the learner).
 		- Multiple submissions require the learner to engage with the feedback process. For further details, please review the [[feedback]] page. Asking about the projected grade for the draft of a given project is reasonable as part of a request for feedback (as outlined on the [[feedback]] page. However, please do not simply ask about projected grades. Consult the [[feedback]] page for details about how to ask for feedback and how to use it.
 	- A Note of Caution
+	  collapsed:: true
 		- You can write about anything you want. But please consider that any subject that is challenging for you to talk about openly (such as personal trauma) is a subject you should probably not write about. On the other hand, powerful personal experiences often provide excellent source material for writing, so it may be difficult for you to decide what to do. First, please use your judgment about how best to keep yourself emotionally safe within and beyond the classroom. Second, please discuss your plans (or your concerns) with me if you decide to write about personal or provocative subjects. In particular, be cautious of subjects involving violence, abuse, trauma, death, mental illness, and related themes (whether they happened to you, happened to someone else, or are imagined). These subjects reliably activate strong emotions and are often unsafe if not handled properly. While no subject is absolutely off-limits in this class, there are many subjects for which there is a risk of harm to you, to me, to others in the class, or to our shared communities. We must be respectful and careful of ourselves and our relationships with others. Please ask the instructor for guidance if you are uncertain.
 	- Projects
+	  collapsed:: true
 		- Project 1: Reading
 		- Project 2: Writing
 		- Project 3: Self-awareness
+		  collapsed:: true
 			- The self-awareness project is an opportunity to reflect upon the depth of your experience in the course. How did it go? What happened? What did you notice about yourself?  What does your experience suggest to you about what comes next in your own development as a creative person? Here are a few possible considerations:
+			  collapsed:: true
 				- What do your experiences in this class teach you about your own creativity?
 				- What does your experience in this course suggest to you about what comes next in your own development as a creative person?
 				- What was surprising or interesting about your experiences in this class?
