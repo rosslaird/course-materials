@@ -1,25 +1,67 @@
-[{:block/name "a",
+[{:block/name "630d2389-120a-486e-90d5-dc6b572e2f4f",
+  :block/created-at 1661805968427,
+  :block/updated-at 1661805968427}
+ {:block/name "630d2389-1a03-4e95-b18f-b9b9545da70a",
+  :block/created-at 1661805886919,
+  :block/updated-at 1661805886919}
+ {:block/name "630d2389-270c-4b87-8184-de1af7668f23",
+  :block/created-at 1661805968426,
+  :block/updated-at 1661805968426}
+ {:block/name "630d2389-509e-48d7-b16b-6abd2dcbd7a0",
+  :block/created-at 1661805968428,
+  :block/updated-at 1661805968428}
+ {:block/name "630d2389-5937-437e-b934-84d77fbd763f",
+  :block/created-at 1661805886919,
+  :block/updated-at 1661805886919}
+ {:block/name "630d2389-7ee4-4344-a8e4-78695ff8ce95",
+  :block/created-at 1661805968426,
+  :block/updated-at 1661805968426}
+ {:block/name "630d2389-957f-4c60-a7f3-4e412544fb49",
+  :block/created-at 1661805968424,
+  :block/updated-at 1661805968424}
+ {:block/name "630d2389-ab24-4f04-be25-97c538b1bd7b",
+  :block/created-at 1661805968428,
+  :block/updated-at 1661805968428}
+ {:block/name "630d2389-c7d1-4e3e-b94d-fb793be27331",
+  :block/created-at 1661805886920,
+  :block/updated-at 1661805886920}
+ {:block/name "630d2389-c7ef-47ab-917d-4c70eb00189c",
+  :block/created-at 1661805968429,
+  :block/updated-at 1661805968429}
+ {:block/name "630d2389-ca26-49f9-94c7-9b5726634bba",
+  :block/created-at 1661805968426,
+  :block/updated-at 1661805968426}
+ {:block/name "630d2389-e821-4953-b764-13733c4f5d23",
+  :block/created-at 1661805968427,
+  :block/updated-at 1661805968427}
+ {:block/name "630d2389-eb7e-474a-a9ad-191070e258fa",
+  :block/created-at 1661805886918,
+  :block/updated-at 1661805886918}
+ {:block/name "630d2389-ed13-467c-9071-748b42f4f018",
+  :block/created-at 1661805968425,
+  :block/updated-at 1661805968425}
+ {:block/name "a",
   :block/created-at 1661804391428,
   :block/updated-at 1661804391428}
  {:block/name "applications",
-  :block/created-at 1661804513005,
-  :block/updated-at 1661804513005}
+  :block/created-at 1661807862707,
+  :block/updated-at 1661807862707}
  {:block/name "applications/logseq.app",
-  :block/created-at 1661804513006,
-  :block/updated-at 1661804513006}
+  :block/created-at 1661807862707,
+  :block/updated-at 1661807862707}
  {:block/name "applications/logseq.app/contents",
-  :block/created-at 1661804513007,
-  :block/updated-at 1661804513007}
+  :block/created-at 1661807862708,
+  :block/updated-at 1661807862708}
  {:block/name "applications/logseq.app/contents/resources",
-  :block/created-at 1661804513007,
-  :block/updated-at 1661804513007}
+  :block/created-at 1661807862708,
+  :block/updated-at 1661807862708}
  {:block/name "applications/logseq.app/contents/resources/app",
-  :block/created-at 1661804513007,
-  :block/updated-at 1661804513007}
+  :block/created-at 1661807862708,
+  :block/updated-at 1661807862708}
  {:block/name
   "applications/logseq.app/contents/resources/app/electron.html#mailto-3a-ross-2e-laird-40-kpu-2e-ca",
-  :block/created-at 1661804513004,
-  :block/updated-at 1661804513004}
+  :block/created-at 1661807862707,
+  :block/updated-at 1661807862707}
  {:block/name "aug 29th, 2022",
   :block/created-at 1661804180856,
   :block/updated-at 1661804180856}
@@ -43,40 +85,64 @@
   :block/updated-at 1661804391428}
  {:block/name "course materials from ross laird",
   :block/created-at 1661804249386,
-  :block/updated-at 1661804373610}
+  :block/updated-at 1661809229354}
  {:block/name "creative writing 4130: advanced creative nonfiction",
   :block/created-at 1661804373610,
   :block/updated-at 1661804373610}
+ {:block/name "culture",
+  :block/created-at 1661807221722,
+  :block/updated-at 1661808498234}
  {:block/name "doing",
   :block/created-at 1661804391428,
   :block/updated-at 1661804391428}
  {:block/name "done",
   :block/created-at 1661804391428,
   :block/updated-at 1661804391428}
+ {:block/name "ethics",
+  :block/created-at 1661807666577,
+  :block/updated-at 1661807732268}
+ {:block/name "evidence-based learning environment",
+  :block/created-at 1661806429201,
+  :block/updated-at 1661806739503}
+ {:block/name "faq",
+  :block/created-at 1661807852141,
+  :block/updated-at 1661808422877}
  {:block/name "favorites",
   :block/created-at 1661804391428,
   :block/updated-at 1661804391428}
  {:block/name "feedback",
   :block/created-at 1661805194392,
-  :block/updated-at 1661805356586}
+  :block/updated-at 1661805531149}
  {:block/name "in-progress",
   :block/created-at 1661804391428,
   :block/updated-at 1661804391428}
  {:block/name "later",
   :block/created-at 1661804391428,
   :block/updated-at 1661804391428}
+ {:block/name "learner code of conduct",
+  :block/created-at 1661808635699,
+  :block/updated-at 1661809092406}
  {:block/name "mailto:ross.laird@kpu.ca",
   :block/created-at 1661804616569,
   :block/updated-at 1661804616569}
+ {:block/name "mailto:ross@rosslaird.com",
+  :block/created-at 1661809395523,
+  :block/updated-at 1661809395523}
  {:block/name "now",
   :block/created-at 1661804391428,
   :block/updated-at 1661804391428}
+ {:block/name "racism",
+  :block/created-at 1661807346609,
+  :block/updated-at 1661807458679}
+ {:block/name "reading",
+  :block/created-at 1661807504816,
+  :block/updated-at 1661807611193}
  {:block/name "ross.laird@kpu.ca",
   :block/created-at 1661804583732,
   :block/updated-at 1661804583732}
  {:block/name "shared resources",
   :block/created-at 1661804474937,
-  :block/updated-at 1661805432518}
+  :block/updated-at 1661808635699}
  {:block/name "todo",
   :block/created-at 1661804391428,
   :block/updated-at 1661804391428}
