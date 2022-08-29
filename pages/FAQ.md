@@ -1,6 +1,6 @@
 - Frequently Asked Questions
 	- How can I ask for help?
-		- Send me an [mailto:ross.laird@kpu.ca](file:///Applications/Logseq.app/Contents/Resources/app/electron.html#mailto-3a-ross-2e-laird-40-kpu-2e-ca). If you want feedback on your writing, review the [[feedback]] page _before_ sending an email.
+		- Send an email to [ross.laird@kpu.ca](mailto:ross.laird@kpu.ca). If you want feedback on your writing, review the [[feedback]] page _before_ sending an email.
 	- How do I get started writing?
 		- Good question, with an answer [here.](https://lab.codered.cloud/skill-development/starting-to-write/)
 	- Can I really read whatever I want?
