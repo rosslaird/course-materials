@@ -1,19 +1,22 @@
 - Instructor Details
-  collapsed:: true
+  id:: 630d2389-a17d-40c3-bb2f-ddfdc5c095d5
 	- Ross Laird, PhD RCC
 	- Website: [rosslaird.com](https://rosslaird.com/)
-	- Email: [mailto:ross.laird@kpu.ca](ross.laird@kpu.ca)
+	- Email: [ross.laird@kpu.ca](mailto:ross.laird@kpu.ca)
 	- Twitter: [@rosslaird](https://twitter.com/rosslaird)
 	- Pronouns: he/him/his
 	- [How to pronounce](https://namedrop.io/rosslaird) Ross Laird
 - Office Hours and Meetings
+  id:: 630d2389-304d-41a3-a25f-67338af06b7b
   collapsed:: true
 	- Office hours and meetings are by appointment (in the library or via Zoom).
 	  Response time to emails: typically 48 hours except on weekends or holidays, when response times will be adjusted to the next business day (the Monday following a weekend, for example). Please use Ross's KPU email address for sending queries: [ross.laird@kpu.ca](mailto:ross.laird@kpu.ca) (not Twitter or the contact form on Ross's website).
 - Asking for Help
+  id:: 630d2389-1a85-4df0-b0f0-c6f621cef7af
   collapsed:: true
 	- You can ask for help anytime. Generally, people learn more deeply when they figure things out in their own ways — but everyone has a limit beyond which they just get frustrated and unproductive. A little bit of frustration is good; overwhelm is not. So, give things a try before you ask for help. But if you've been working on something for a long while and you aren't making any progress, [reach out](mailto:ross.laird@kpu.ca).
 - University Policies
+  id:: 630d2389-b34f-40a8-ba84-e3591b984a35
   collapsed:: true
 	- [HR15 – Diversity and Inclusiveness](https://www.google.com/url?client=internal-element-cse&cx=011299098552178762367:asix4myddgk&q=https://www.kpu.ca/sites/default/files/Policies/HR15%2520Diversity%2520and%2520Inclusiveness%2520Policy.pdf&sa=U&ved=2ahUKEwjQ9M6lhdv5AhVRIjQIHRGZCE8QFnoECAUQAg&usg=AOvVaw3wOMmc4-XBZGVwrpSpa_pv)
 	- [ST2 – Student Academic Integrity](https://www.google.com/url?client=internal-element-cse&cx=011299098552178762367:asix4myddgk&q=https://www.kpu.ca/sites/default/files/Policies/ST2%2520Student%2520Academic%2520Integrity%2520Procedure.pdf&sa=U&ved=2ahUKEwj17PGThdv5AhXvGTQIHXgGBG4QFnoECAYQAg&usg=AOvVaw35Tll8HYL1S6xm_tyttsfK)
@@ -21,6 +24,7 @@
 	- [SR14 – Sexual Violence and Misconduct](https://www.google.com/url?client=internal-element-cse&cx=011299098552178762367:asix4myddgk&q=https://www.kpu.ca/sites/default/files/Policies/SR14%2520Sexual%2520Violence%2520and%2520Misconduct%2520Policy.pdf&sa=U&ved=2ahUKEwiFz6CBhdv5AhWvBTQIHXD1DDIQFnoECAIQAg&usg=AOvVaw0R7fH6YLsXMBIHiCp2-UQb)
 - Assessment and Evaluation
   collapsed:: true
+  id:: 630d2389-6f2d-43fc-b3ef-411ca95b9f69
 	- The principles and methods used in this class are grounded in a large body of research that explores the elements of an [[evidence-based learning environment]]. Those elements include self-direction, internal motivation, emotional safety, and a variety of other factors summarized as follows:
 		- _Emotional safety_: a person-centered environment, with emphasis on belonging, being seen, and encouragement for safe exploration (which includes things like making mistakes, trying again, and reversing course)
 		  id:: 630d2389-eb7e-474a-a9ad-191070e258fa
@@ -63,6 +67,7 @@
 	- If circumstances beyond your control cause you to miss the week 12 deadline, please contact the instructor _before_ the end of week 12. After the end of week 12, university policies and deadlines come into play which may make it challenging to accommodate learners who seek consideration for complex circumstances.
 	- When learners are penalized for submitting projects that take longer than expected or intended, they learn more about compliance and control than they do about motivation and exploration. At the same time, this class is taking place in the context of a traditional university setting in which semester deadlines exist and grades must be submitted within a fixed time frame.
 - Specific Timelines for Fall 2022
+  id:: 630d2389-f257-4de2-9883-f5cd2885c3a8
   collapsed:: true
 	- The following are suggested, optional timelines and due dates for the various projects. You are not required to follow these guidelines — except for the final deadline, which is **November 30**. _Everything is due by that date_.
 	  collapsed:: true
@@ -117,12 +122,19 @@
 	- If you get stuck with this assignment, feel free to reach out to ask questions. But really, getting stuck is part of the process. Getting _unstuck_ is how you activate your creativity.
 	- Because the self-awareness project includes all of your experiences in the course, it is **worth 40 percent of your grade**: 20 percent for _showing up and doing the work_ (see above) in the actual class sessions, and 20 percent for reflecting on your experiences. _Showing up and doing the work_ is not simply about attendance and/or participation. Rather, it’s about engaging with all of the assessment and evaluation criteria listed above.
 	- The self-awareness project is formally due at the end of week 12. See the section on ((630d2389-ff42-4d65-8517-9ecb43db9965)) for more details.
-- Basics
+- Approaches and Considerations
 	- [[evidence-based learning environment]]
+	  id:: 630d3673-2253-442f-bb99-9ae89495a594
 	- [[culture]]
+	  id:: 630d3673-1158-4d75-a561-065db3965b55
 	- [[racism]]
+	  id:: 630d3673-6998-420c-af75-8c7e90879fa7
 	- [[reading]]
+	  id:: 630d3673-d0af-4969-9149-0debad8d5ff8
 	- [[ethics]]
+	  id:: 630d3673-83fd-46ae-b8c4-36effc69912b
 	- [[FAQ]]
+	  id:: 630d3673-689c-48d7-9ab4-c36129111dd4
 	- [[Learner Code of Conduct]]
+	  id:: 630d3673-a705-4c84-89cc-35420ccfe9e1
 -

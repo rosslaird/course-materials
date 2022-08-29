@@ -1,4 +1,22 @@
-- This is a public [Logseq graph](https://logseq.com/) that contains resources for the courses taught by Ross Laird at Kwantlen Polytechnic University. If you are a learner in one of these courses, please click the relevant course or resource from the list below.
+- This is a public [Logseq graph](https://logseq.com/) that contains resources for the courses taught by Ross Laird at [Kwantlen Polytechnic University](https://kpu.ca). If you are a learner in one of these courses, please click the relevant course or resource from the list below. (Even if you are not a learner in one of Ross’s classes, feel free to look around. These are [open educational materials](https://en.wikipedia.org/wiki/Open_educational_resources).)
 	- [[Shared Resources]]
-	- [[Creative Writing 4130: Advanced Creative Nonfiction]]
+		- ((630d2389-a17d-40c3-bb2f-ddfdc5c095d5))
+		- ((630d2389-304d-41a3-a25f-67338af06b7b))
+		- ((630d2389-1a85-4df0-b0f0-c6f621cef7af))
+		- ((630d2389-b34f-40a8-ba84-e3591b984a35))
+		- ((630d2389-6f2d-43fc-b3ef-411ca95b9f69))
+		- ((630d2389-ff42-4d65-8517-9ecb43db9965))
+		- ((630d2389-f257-4de2-9883-f5cd2885c3a8))
+		- ((630d2389-fb4c-49e2-a2d7-9881a9cc4510))
+		- ((630d23ec-af97-40a4-95ab-bf3d7f85664d))
+	- Considerations and Approaches
+		- Cultivating an ((630d3673-2253-442f-bb99-9ae89495a594))
+		- On ((630d3673-1158-4d75-a561-065db3965b55))
+		- On ((630d3673-6998-420c-af75-8c7e90879fa7))
+		- On ((630d3673-d0af-4969-9149-0debad8d5ff8))
+		- On ((630d3673-83fd-46ae-b8c4-36effc69912b))
+		- Frequently Asked Questions: ((630d3673-689c-48d7-9ab4-c36129111dd4))
+		- ((630d3673-a705-4c84-89cc-35420ccfe9e1))
+	- Courses
+		- [[Creative Writing 4130: Advanced Creative Nonfiction]]
 	-
