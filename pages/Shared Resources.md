@@ -41,10 +41,14 @@
 	- If circumstances beyond your control cause you to miss the week 12 deadline, please contact the instructor _before_ the end of week 12. After the end of week 12, university policies and deadlines come into play which may make it challenging to accommodate learners who seek consideration for complex circumstances.
 	- When learners are penalized for submitting projects that take longer than expected or intended, they learn more about compliance and control than they do about motivation and exploration. At the same time, this class is taking place in the context of a traditional university setting in which semester deadlines exist and grades must be submitted within a fixed time frame.
 - Specific Timelines for Fall 2022
-	- The following are suggested, optional timelines and due dates for the various projects. You are not required to follow these guidelines — except for the final deadline, which is **November 30**. *Everything is due by that date*.
+	- The following are suggested, optional timelines and due dates for the various projects. You are not required to follow these guidelines — except for the final deadline, which is **November 30**. _Everything is due by that date_.
 		- September 6—30: project 1
 		- September 30: provisional submission date for project 1
 		- October 1—31: project 2
 		- October 31: provisional submission date for project 2
 		- November 1—30: project 3
 		- **November 30: all projects due**
+	- Multiple Project Reviews
+		- Writing is an iterative process, and later drafts are often better than previous ones (especially if you are attentive to [feedback](https://lab.codered.cloud/basics/on-feedback/)). To encourage iteration and improvement, you are welcome to submit any project as many times as you like — until the end of week 11 (at which point the week 12 deadline is too close for further project reviews by the instructor and effective responses by the learner).
+		- You can submit any project as many times as you like — until the end of week 11 (at which point the week 12 deadline is too close for further project reviews by the instructor and effective responses by the learner).
+		- Multiple submissions require the learner to engage with the feedback process. For further details, please review the [feedback page](https://lab.codered.cloud/basics/on-feedback/). Asking about the projected grade for the draft of a given project is reasonable as part of a request for feedback (as outlined on the [feedback page](https://lab.codered.cloud/basics/on-feedback/)). However, please do not simply ask about projected grades. Consult the [feedback page](https://lab.codered.cloud/basics/on-feedback/) for details about how to ask for feedback and how to use it.
