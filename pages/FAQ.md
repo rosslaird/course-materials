@@ -1,0 +1,35 @@
+- Frequently Asked Questions
+	- How can I ask for help?
+		- Send me an [mailto:ross.laird@kpu.ca](file:///Applications/Logseq.app/Contents/Resources/app/electron.html#mailto-3a-ross-2e-laird-40-kpu-2e-ca). If you want feedback on your writing, review the [[feedback]] page _before_ sending an email.
+	- How do I get started writing?
+		- Good question, with an answer [here.](https://lab.codered.cloud/skill-development/starting-to-write/)
+	-
+	- ### Can I really read whatever I want?
+		- Yes. If I try to force you to read, you will not read — or you will learn to hate reading. On the other hand, if I encourage you to read, you might discover something meaningful (about reading, writing, yourself, or many other things). Reading is like surfing or rock-climbing: forcing people to do it is a great way to ensure that they never want to do it again. (And that’s the reason that about a third of university graduates never read another book.) The French philosopher [Simone Weil](https://en.wikipedia.org/wiki/Simone_Weil) once said that “intelligence can only be led by desire.” This is a crucial insight in the context of the creative process. Readings form the foundation of that process in creative writing and must therefore be personalized to the character and curiosity of the reader. Please see the [reading video](https://lab.codered.cloud/basics/on-reading/) for more details.
+		-
+	- ### Can I really write whatever I want?
+		- More or less. Your writing should come from _*you*_. However, I do suggest some guidelines and cautions about the scope of writing for projects on the project pages.
+		-
+	- ### What happens if I miss the final deadline for projects?
+		- You will get zero on any projects that I have not seen. This situation arises because the semester does have to come to an end at some point, I do need to submit grades, and we all run out of time. The final due date is the latest date by which I am able to receive projects and still have enough time to review them and submit grades.
+		-
+	- ### Can I submit my assignments multiple times?
+		- You can submit any project as many times as you like—until the final deadline. In fact, I encourage you to submit your projects more than once. Writing is an iterative process, after all, and later drafts are often better than previous ones (especially if you ask for [feedback](https://lab.codered.cloud/basics/on-feedback/) on these drafts). I will review each new draft that you send — until the final deadline. Typically, your grade will improve after each draft (provided you ask for feedback and that you are attentive to it). Once the final deadline has passed, the project submission period is closed and you will no longer be able to send new drafts. This also means that you will not be able to improve your grade on a project after the final deadline has passed.
+		-
+	- ### Why is this class so different from what I’m used to?
+		- What you’re used to is mainstream, traditional, western, colonial education. More than a hundred years of educational research (starting with John Dewey, Horace Mann, and others) has shown that the methods used in mainstream education are not very effective in cultivating interdisciplinary thinking, creativity, and a whole set of interconnected skills that creative writing broadly requires. So, if we want to do our best to develop our creative writing, we really should not use traditional methods. Most of the pages in the Basics Menu above have more information on this. For a particular emphasis on grading and its alternatives, see the [Assessment](https://lab.codered.cloud/basics/on-assessment/) page.
+		-
+	- ### What if I’m stuck?
+		- That’s fine, and normal, and maybe even good. Creativity depends upon uncertainty, wandering, and the discovery of unintended things. Try to be comfortable in the discomfort. Review the page that describes [my approach](https://lab.codered.cloud/basics/my-approach/) and why I _*want*_ you to get a bit stuck. At the same time, if you get so stuck that you become paralyzed, that’s not so great — and, in that case, get in touch and I’ll try to help you get moving again.
+		-
+	- ### Can I view all the writing tutorials in one place?
+		- Yep, [right here](https://lab.codered.cloud/skill-development/).
+		-
+	- ### What is the painting in the background of some of the videos?
+		- It’s a lithograph by Sam Ash, an Indigenous Canadian artist. It’s called _*Old Woman and Evil Man,*_ and I interpret it as a depiction of how we grapple with the disowned parts of ourselves. Sam Ash is from Sioux Lookout. He was born Ojibwa, then was adopted by a Métis couple after his mother died during childbirth. He began painting at age 6 when he went to the Ontario School for the Deaf. For more than sixty years Sam’s work has explored the depth and meaning of human challenges. This painting in particular resonates with me; as a counsellor focused on addictions and trauma, I work with many people who are called to confront the parts of themselves that are disowned and crying out for help.
+		-
+	- ### Is that your library in the background of some of the videos?
+		- Yes, it’s part of my library: the myth and religion section.
+		-
+	- ### What is your (the instructor’s) background?
+		- I was born and raised in Vancouver. My career has been focused on the relationship between creativity and personal development. That’s what my [books](https://www.rosslaird.com/books/) are about. One of them ([Grain of Truth](https://www.rosslaird.com/books/grain-of-truth/)) is a national bestseller. My writing derives from my work as a [psychotherapist and clinical consultant](https://www.rosslaird.com/services/), in which I utilize creative practices to help those who are healing from addictions and trauma. I am the clinical supervisor for BC’s largest government-funded program focused on trauma, addictions, and homelessness. I’ve been practicing and writing for 35 years. I have taught creative writing, counselling, and related disciplines at more than a dozen post-secondary institutions. In terms of my own education, I have a Bachelor’s degree in English Literature, a Master’s degree in Counselling Psychology, and a PhD in the Creative Process. I have won various awards for my writing, teaching, scholarship, and counselling. You can read more about my background and work [here](https://www.rosslaird.com/about-ross-laird/) and [here](https://www.rosslaird.com/about-ross-laird/testimonials/).
