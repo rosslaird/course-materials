@@ -1,1 +1,1 @@
-- Thes pages cont
+- This is a public Logseq graph that contains resources for the courses taught by Ross Laird at Kwantlen Polytechn
