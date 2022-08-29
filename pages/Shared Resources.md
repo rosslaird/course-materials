@@ -64,6 +64,7 @@
 	- If circumstances beyond your control cause you to miss the week 12 deadline, please contact the instructor _before_ the end of week 12. After the end of week 12, university policies and deadlines come into play which may make it challenging to accommodate learners who seek consideration for complex circumstances.
 	- When learners are penalized for submitting projects that take longer than expected or intended, they learn more about compliance and control than they do about motivation and exploration. At the same time, this class is taking place in the context of a traditional university setting in which semester deadlines exist and grades must be submitted within a fixed time frame.
 - Specific Timelines for Fall 2022
+  collapsed:: true
 	- The following are suggested, optional timelines and due dates for the various projects. You are not required to follow these guidelines — except for the final deadline, which is **November 30**. _Everything is due by that date_.
 	  collapsed:: true
 		- September 6—30: project 1
@@ -81,9 +82,11 @@
   collapsed:: true
 	- You can write about anything you want. But please consider that any subject that is challenging for you to talk about openly (such as personal trauma) is a subject you should probably not write about. On the other hand, powerful personal experiences often provide excellent source material for writing, so it may be difficult for you to decide what to do. First, please use your judgment about how best to keep yourself emotionally safe within and beyond the classroom. Second, please discuss your plans (or your concerns) with me if you decide to write about personal or provocative subjects. In particular, be cautious of subjects involving violence, abuse, trauma, death, mental illness, and related themes (whether they happened to you, happened to someone else, or are imagined). These subjects reliably activate strong emotions and are often unsafe if not handled properly. While no subject is absolutely off-limits in this class, there are many subjects for which there is a risk of harm to you, to me, to others in the class, or to our shared communities. We must be respectful and careful of ourselves and our relationships with others. Please ask the instructor for guidance if you are uncertain.
 - Projects
+  collapsed:: true
 	- Project 1: Reading
 	- Project 2: Writing
 	- Project 3: Self-awareness
+	  collapsed:: true
 		- The self-awareness project is an opportunity to reflect upon the depth of your experience in the course. How did it go? What happened? What did you notice about yourself?  What does your experience suggest to you about what comes next in your own development as a creative person? Here are a few possible considerations:
 		  collapsed:: true
 			- What do your experiences in this class teach you about your own creativity?
