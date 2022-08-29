@@ -28,15 +28,25 @@
 		  id:: 630d2389-c7d1-4e3e-b94d-fb793be27331
 	- The learning environment in this class is designed to implement the principles outlined above. In turn, methods of evaluation, grading, and assessment follow the same principles. Here are the specific evaluation criteria that are used for each project (they are the same for each project):
 		- Taking personal responsibility for the motivation and self-awareness required for meaningful learning
+		  id:: 630d2389-957f-4c60-a7f3-4e412544fb49
 		- Challenging oneself, especially with the discomfort of encountering new things
+		  id:: 630d2389-ed13-467c-9071-748b42f4f018
 		- Developing and sustaining a positive, growth-oriented mindset
+		  id:: 630d2389-ca26-49f9-94c7-9b5726634bba
 		- Encouraging belonging, trust, and emotional safety for everyone in the learning environment
+		  id:: 630d2389-7ee4-4344-a8e4-78695ff8ce95
 		- Caring for people (via empathy) and caring for oneself (via self-reflection and self-regulation)
+		  id:: 630d2389-270c-4b87-8184-de1af7668f23
 		- Examining and revising personal values and beliefs as the result of new learning
+		  id:: 630d2389-120a-486e-90d5-dc6b572e2f4f
 		- Suspending judgment and evaluation in situations involving process and flow
+		  id:: 630d2389-e821-4953-b764-13733c4f5d23
 		- Approaching creativity as a set of skills with many dimensions and a long learning curve
+		  id:: 630d2389-ab24-4f04-be25-97c538b1bd7b
 		- Engaging in the reciprocal process of appropriate feedback
+		  id:: 630d2389-509e-48d7-b16b-6abd2dcbd7a0
 		- Showing up and doing the work
+		  id:: 630d2389-c7ef-47ab-917d-4c70eb00189c
 - General Timelines for Projects
 	- There are 3 projects for this class. All of the projects are assigned in week 1 and all are due at the end of week 12. Each project is intended to occupy 4 weeks of the course, and _optional_ due dates (in weeks 4 and 8) are associated with the first 2 projects for that purpose. The 3rd project has a fixed deadline at the end of week 12.
 	- Any project may be submitted at any time until the end of week 12.
@@ -58,6 +68,8 @@
 		- Multiple submissions require the learner to engage with the feedback process. For further details, please review the [[feedback]] page. Asking about the projected grade for the draft of a given project is reasonable as part of a request for feedback (as outlined on the [[feedback]] page. However, please do not simply ask about projected grades. Consult the [[feedback]] page for details about how to ask for feedback and how to use it.
 	- A Note of Caution
 		- You can write about anything you want. But please consider that any subject that is challenging for you to talk about openly (such as personal trauma) is a subject you should probably not write about. On the other hand, powerful personal experiences often provide excellent source material for writing, so it may be difficult for you to decide what to do. First, please use your judgment about how best to keep yourself emotionally safe within and beyond the classroom. Second, please discuss your plans (or your concerns) with me if you decide to write about personal or provocative subjects. In particular, be cautious of subjects involving violence, abuse, trauma, death, mental illness, and related themes (whether they happened to you, happened to someone else, or are imagined). These subjects reliably activate strong emotions and are often unsafe if not handled properly. While no subject is absolutely off-limits in this class, there are many subjects for which there is a risk of harm to you, to me, to others in the class, or to our shared communities. We must be respectful and careful of ourselves and our relationships with others. Please ask the instructor for guidance if you are uncertain.
+	- Project 1
+		-
 	- Projects
 		- Project 3 (Self-awareness)
 			- The self-awareness project is an opportunity to reflect upon the depth of your experience in the course. How did it go? What happened? What did you notice about yourself?  What does your experience suggest to you about what comes next in your own development as a creative person? Here are a few possible considerations:
@@ -73,5 +85,15 @@
 			- {{embed ((630d2389-1a03-4e95-b18f-b9b9545da70a))}}
 			- {{embed ((630d2389-5937-437e-b934-84d77fbd763f))}}
 			- {{embed ((630d2389-c7d1-4e3e-b94d-fb793be27331))}}
-			- You could also consider the various principles of assessment and evaluation used in the course:
-			-
+			- The structure of this project is flexible. You can include as much as you like: thoughts, reflections, ideas, implications, insights, or anything that might help you to deepen your creativity and understand your life. If you’d like a few further considerations for this project, review the evaluation criteria for the projects and the course overall; these criteria show the kinds of attitudes and behaviours that lead to good self-reflection and self-awareness:
+			- {{embed ((630d2389-957f-4c60-a7f3-4e412544fb49))}}
+			- {{embed ((630d2389-ed13-467c-9071-748b42f4f018))}}
+			- {{embed ((630d2389-ca26-49f9-94c7-9b5726634bba))}}
+			- {{embed ((630d2389-7ee4-4344-a8e4-78695ff8ce95))}}
+			- {{embed ((630d2389-270c-4b87-8184-de1af7668f23))}}
+			- {{embed ((630d2389-120a-486e-90d5-dc6b572e2f4f))}}
+			- {{embed ((630d2389-e821-4953-b764-13733c4f5d23))}}
+			- {{embed ((630d2389-ab24-4f04-be25-97c538b1bd7b))}}
+			- {{embed ((630d2389-509e-48d7-b16b-6abd2dcbd7a0))}}
+			- {{embed ((630d2389-c7ef-47ab-917d-4c70eb00189c))}}
+	- Project 2
