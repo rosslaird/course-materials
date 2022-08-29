@@ -1,0 +1,7 @@
+- Instructor Details
+	- Ross Laird, PhD RCC
+	- Website: [rosslaird.com](https://rosslaird.com/)
+	- Email: [mailto:ross.laird@kpu.ca](file:///Applications/Logseq.app/Contents/Resources/app/electron.html#mailto-3a-ross-2e-laird-40-kpu-2e-ca)
+	- Twitter: [@rosslaird](https://twitter.com/rosslaird)
+	- Pronouns: he/him/his
+	- [How to pronounce](https://namedrop.io/rosslaird) Ross Laird
