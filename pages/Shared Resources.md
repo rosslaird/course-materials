@@ -116,3 +116,5 @@
 	- The self-awareness project is formally due at the end of week 12. See the section on ((630d2389-ff42-4d65-8517-9ecb43db9965)) for more details.
 - Basics
 	- [[evidence-based learning environment]]
+	- [[culture]]
+-
