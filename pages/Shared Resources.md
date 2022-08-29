@@ -120,5 +120,5 @@
 	- [[racism]]
 	- [[reading]]
 	- [[ethics]]
-	-
+	- [[FAQ]]
 -
