@@ -12,10 +12,9 @@
 	- Can I submit my assignments multiple times?
 		- You can submit any project as many times as you like—until the final deadline. Review the section on ((630d2389-fb4c-49e2-a2d7-9881a9cc4510)).
 	- Why is this class so different from what I’m used to?
-		- What you’re used to is mainstream, traditional, western, colonial education. More than a hundred years of educational research (starting with John Dewey, Horace Mann, and others) has shown that the methods used in mainstream education are not very effective in cultivating interdisciplinary thinking, creativity, and a whole set of interconnected skills that creative writing broadly requires. So, if we want to do our best to develop our creative writing, we really should not use traditional methods. See the
-		-
-	- ### What if I’m stuck?
-		- That’s fine, and normal, and maybe even good. Creativity depends upon uncertainty, wandering, and the discovery of unintended things. Try to be comfortable in the discomfort. Review the page that describes [my approach](https://lab.codered.cloud/basics/my-approach/) and why I _*want*_ you to get a bit stuck. At the same time, if you get so stuck that you become paralyzed, that’s not so great — and, in that case, get in touch and I’ll try to help you get moving again.
+		- What you’re used to is mainstream, traditional, western, colonial education. More than a hundred years of educational research (starting with John Dewey, Horace Mann, and others) has shown that the methods used in mainstream education are not very effective in cultivating interdisciplinary thinking, creativity, and a whole set of interconnected skills that creative writing broadly requires. So, if we want to do our best to develop our creative writing, we really should not use traditional methods. See the [[evidence-based learning environment]] page for more details.
+	- What if I’m stuck?
+		- That’s fine, and normal, and maybe even good. Creativity depends upon uncertainty, wandering, and the discovery of unintended things. Try to be comfortable in the discomfort. Review the section on  that describes [my approach](https://lab.codered.cloud/basics/my-approach/) and why I _*want*_ you to get a bit stuck. At the same time, if you get so stuck that you become paralyzed, that’s not so great — and, in that case, get in touch and I’ll try to help you get moving again.
 		-
 	- ### Can I view all the writing tutorials in one place?
 		- Yep, [right here](https://lab.codered.cloud/skill-development/).
