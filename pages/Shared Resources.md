@@ -36,7 +36,15 @@
 - General Timelines for Projects
 	- There are 3 projects for this class. All of the projects are assigned in week 1 and all are due at the end of week 12. Each project is intended to occupy 4 weeks of the course, and _optional_ due dates (in weeks 4 and 8) are associated with the first 2 projects for that purpose. The 3rd project has a fixed deadline at the end of week 12.
 	- Any project may be submitted at any time until the end of week 12.
-	- There are no late penalties for projects submitted at any time before the end of week 12 (as such projects are not late until *after* the end of week 12).
+	- There are no late penalties for projects submitted at any time before the end of week 12 (as such projects are not late until _after_ the end of week 12).
 	- All projects are due at the end of week 12 (Sunday, midnight). Projects submitted after the end of week 12 will not be graded.
-	- If circumstances beyond your control cause you to miss the week 12 deadline, please contact the instructor *before* the end of week 12. After the end of week 12, university policies and deadlines come into play which may make it difficult to accommodate learners who seek consideration for difficult circumstances.
+	- If circumstances beyond your control cause you to miss the week 12 deadline, please contact the instructor _before_ the end of week 12. After the end of week 12, university policies and deadlines come into play which may make it challenging to accommodate learners who seek consideration for complex circumstances.
 	- When learners are penalized for submitting projects that take longer than expected or intended, they learn more about compliance and control than they do about motivation and exploration. At the same time, this class is taking place in the context of a traditional university setting in which semester deadlines exist and grades must be submitted within a fixed time frame.
+- Specific Timelines for Fall 2022
+	- The following are suggested, optional timelines and due dates for the various projects. You are not required to follow these guidelines — except for the final deadline, which is **November 30**. *Everything is due by that date*.
+		- September 6—30: project 1
+		- September 30: provisional submission date for project 1
+		- October 1—31: project 2
+		- October 31: provisional submission date for project 2
+		- November 1—30: project 3
+		- **November 30: all projects due**
