@@ -8,3 +8,6 @@
 - Office Hours and Meetings
 	- Office hours and meetings are by appointment (in the library or via Zoom).
 	  Response time to emails: typically 48 hours except on weekends or holidays, when response times will be adjusted to the next business day (the Monday following a weekend, for example). Please use Ross's KPU email address for sending queries: [ross.laird@kpu.ca](mailto:ross.laird@kpu.ca) (not Twitter or the contact form on Ross's website).
+- Asking for Help
+	- You can ask for help anytime. Generally, people learn more deeply when they figure things out in their own ways — but everyone has a limit beyond which they just get frustrated and unproductive. A little bit of frustration is good; overwhelm is not. So, give things a try before you ask for help. But if you've been working on something for a long while and you aren't making any progress, [reach out](mailto:ross.laird@kpu.ca).
+-
