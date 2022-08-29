@@ -58,8 +58,8 @@
 		- Project 3 (Self-awareness)
 			- The self-awareness project is an opportunity to reflect upon the depth of your experience in the course. How did it go? What happened? What did you notice about yourself?  What does your experience suggest to you about what comes next in your own development as a creative person? Here are a few possible considerations:
 				- What does your experience in this course suggest to you about what comes next in your own development as a creative person?
-				- What do your experiences in this class teach you about your own creativity?
 				- What was surprising or interesting about your experiences in this class?
+				- What do your experiences in this class teach you about your own creativity?
 				- When did you notice yourself having the most difficulty in this class? What do you think this tells you about your development as a person?
 				- What was most fun or joyful about being in this class? What do you think this tells you about your development as a person?
 				- What memories, thoughts, or feelings were evoked by your experiences in this class?
