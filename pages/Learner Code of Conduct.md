@@ -21,19 +21,11 @@
 	- The instructor is responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful.
 - Scope
 	- This Code of Conduct applies within the classroom and within all community spaces (online or in person).
--
-### 
-
-**Enforcement**
-
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to [Ross Laird](mailto:ross@rosslaird.com). All complaints will be reviewed and investigated promptly and fairly.
-
-All community leaders are obligated to respect the privacy and security of the reporter of any incident.
-### 
-
-**Enforcement Guidelines**
-
-Community leaders will follow these Community Impact Guidelines in determining the consequences for any action they deem in violation of this Code of Conduct:
+- Enforcement
+	- Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to [Ross Laird](mailto:ross@rosslaird.com).
+- Enforcement Guidelines
+  
+  Community leaders will follow these Community Impact Guidelines in determining the consequences for any action they deem in violation of this Code of Conduct:
 ### 
 
 1. Correction
