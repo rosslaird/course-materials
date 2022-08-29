@@ -17,7 +17,7 @@
 	- [SR14 – Sexual Violence and Misconduct](https://www.google.com/url?client=internal-element-cse&cx=011299098552178762367:asix4myddgk&q=https://www.kpu.ca/sites/default/files/Policies/SR14%2520Sexual%2520Violence%2520and%2520Misconduct%2520Policy.pdf&sa=U&ved=2ahUKEwiFz6CBhdv5AhWvBTQIHXD1DDIQFnoECAIQAg&usg=AOvVaw0R7fH6YLsXMBIHiCp2-UQb)
 - Assessment and Evaluation
 	- The principles and methods used in this class are grounded in a large body of evidence-based [educational research](https://www.rosslaird.com/articles/education/developing-knowledge/) that emphasizes the importance of self-directed, internally-motivated, meaningful learning experiences. The results of that research clearly indicate that an effective learning environment should have the following elements:
-		- *Emotional safety*: a person-centered environment, with emphasis on belonging, being seen, and encouragement for safe exploration (which includes things like making mistakes, trying again, and reversing course)
+		- _Emotional safety_: a person-centered environment, with emphasis on belonging, being seen, and encouragement for safe exploration (which includes things like making mistakes, trying again, and reversing course)
 		- *Trust*: a focus on healthy relationships, authenticity, consistency, congruence, and dependable and ethical action (for instructors as well as learners)
 		- *Self-awareness*: encouragement of insight, personal knowledge, open pathways, comfort with discomfort, and connecting self to others
 		- *Empathy*: an emotionally safe community, with safe feelings and processes, an emphasis on positive change, and encouragement of emotional openness
