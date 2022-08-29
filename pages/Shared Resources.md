@@ -31,6 +31,7 @@
 		- _Empathy_: an emotionally safe community, with safe feelings and processes, an emphasis on positive change, and encouragement of emotional openness
 		  id:: 630d2389-c7d1-4e3e-b94d-fb793be27331
 	- The learning environment in this class is designed to implement the principles outlined above. In turn, methods of evaluation, grading, and assessment follow the same principles. Here are the specific evaluation criteria that are used for each project (they are the same for each project):
+	  id:: 630d2389-8374-44f6-bab2-ec7c95d4b8c9
 		- Taking personal responsibility for the motivation and self-awareness required for meaningful learning
 		  id:: 630d2389-957f-4c60-a7f3-4e412544fb49
 		- Challenging oneself, especially with the discomfort of encountering new things
