@@ -19,9 +19,13 @@
   collapsed:: true
 	- The principles and methods used in this class are grounded in a large body of evidence-based [educational research](https://www.rosslaird.com/articles/education/developing-knowledge/) that emphasizes the importance of self-directed, internally-motivated, meaningful learning experiences. The results of that research clearly indicate that an effective learning environment should have the following elements:
 		- _Emotional safety_: a person-centered environment, with emphasis on belonging, being seen, and encouragement for safe exploration (which includes things like making mistakes, trying again, and reversing course)
+		  id:: 630d2389-eb7e-474a-a9ad-191070e258fa
 		- _Trust_: a focus on healthy relationships, authenticity, consistency, congruence, and dependable and ethical action (for instructors as well as learners)
+		  id:: 630d2389-1a03-4e95-b18f-b9b9545da70a
 		- _Self-awareness_: encouragement of insight, personal knowledge, open pathways, comfort with discomfort, and connecting self to others
+		  id:: 630d2389-5937-437e-b934-84d77fbd763f
 		- _Empathy_: an emotionally safe community, with safe feelings and processes, an emphasis on positive change, and encouragement of emotional openness
+		  id:: 630d2389-c7d1-4e3e-b94d-fb793be27331
 	- The learning environment in this class is designed to implement the principles outlined above. In turn, methods of evaluation, grading, and assessment follow the same principles. Here are the specific evaluation criteria that are used for each project (they are the same for each project):
 		- Taking personal responsibility for the motivation and self-awareness required for meaningful learning
 		- Challenging oneself, especially with the discomfort of encountering new things
@@ -65,4 +69,9 @@
 				- What memories, thoughts, or feelings were evoked by your experiences in this class?
 				- What has your experience in this class taught you about your own challenges in personal development?
 			- In considering how to approach this project, you could think about the intentional design of the course and the educational principles applied to it:
-				-
+			- {{embed ((630d2389-eb7e-474a-a9ad-191070e258fa))}}
+			- {{embed ((630d2389-1a03-4e95-b18f-b9b9545da70a))}}
+			- {{embed ((630d2389-5937-437e-b934-84d77fbd763f))}}
+			- {{embed ((630d2389-c7d1-4e3e-b94d-fb793be27331))}}
+			- You could also consider the various principles of assessment and evaluation used in the course:
+			-
