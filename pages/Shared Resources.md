@@ -116,3 +116,5 @@
 	- If you get stuck with this assignment, feel free to reach out to ask questions. But really, getting stuck is part of the process. Getting _unstuck_ is how you activate your creativity.
 	- Because the self-awareness project includes all of your experiences in the course, it is **worth 40 percent of your grade**: 20 percent for _showing up and doing the work_ (see above) in the actual class sessions, and 20 percent for reflecting on your experiences. _Showing up and doing the work_ is not simply about attendance and/or participation. Rather, it’s about engaging with all of the assessment and evaluation criteria listed above.
 	- The self-awareness project is formally due at the end of week 12. See the section on ((630d2389-ff42-4d65-8517-9ecb43db9965)) for more details.
+- Basics
+	-
