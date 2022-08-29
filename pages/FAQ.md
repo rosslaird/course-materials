@@ -3,12 +3,10 @@
 		- Send me an [mailto:ross.laird@kpu.ca](file:///Applications/Logseq.app/Contents/Resources/app/electron.html#mailto-3a-ross-2e-laird-40-kpu-2e-ca). If you want feedback on your writing, review the [[feedback]] page _before_ sending an email.
 	- How do I get started writing?
 		- Good question, with an answer [here.](https://lab.codered.cloud/skill-development/starting-to-write/)
-	-
-	- ### Can I really read whatever I want?
+	- Can I really read whatever I want?
 		- Yes. If I try to force you to read, you will not read — or you will learn to hate reading. On the other hand, if I encourage you to read, you might discover something meaningful (about reading, writing, yourself, or many other things). Reading is like surfing or rock-climbing: forcing people to do it is a great way to ensure that they never want to do it again. (And that’s the reason that about a third of university graduates never read another book.) The French philosopher [Simone Weil](https://en.wikipedia.org/wiki/Simone_Weil) once said that “intelligence can only be led by desire.” This is a crucial insight in the context of the creative process. Readings form the foundation of that process in creative writing and must therefore be personalized to the character and curiosity of the reader. Please see the [reading video](https://lab.codered.cloud/basics/on-reading/) for more details.
-		-
-	- ### Can I really write whatever I want?
-		- More or less. Your writing should come from _*you*_. However, I do suggest some guidelines and cautions about the scope of writing for projects on the project pages.
+	- Can I really write whatever I want?
+		- More or less. Your writing should come from _*you*_. However, I do suggest some guidelines and cautions about the scope of writing for projects on the project pages. Review those on the ((630d23ec-af97-40a4-95ab-bf3d7f85664d))
 		-
 	- ### What happens if I miss the final deadline for projects?
 		- You will get zero on any projects that I have not seen. This situation arises because the semester does have to come to an end at some point, I do need to submit grades, and we all run out of time. The final due date is the latest date by which I am able to receive projects and still have enough time to review them and submit grades.
