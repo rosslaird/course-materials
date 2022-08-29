@@ -6,4 +6,14 @@
 	- {{embed ((630d2389-1a03-4e95-b18f-b9b9545da70a))}}
 	- {{embed ((630d2389-5937-437e-b934-84d77fbd763f))}}
 	- {{embed ((630d2389-c7d1-4e3e-b94d-fb793be27331))}}
-- In turn, the criteria used in assessment and evaluation mirror and amplify these structural and philos
+- In turn, the criteria used in assessment and evaluation mirror and amplify these structural and philosophical considerations so that they contribute to individual learning:
+- {{embed ((630d2389-957f-4c60-a7f3-4e412544fb49))}}
+- {{embed ((630d2389-ed13-467c-9071-748b42f4f018))}}
+- {{embed ((630d2389-ca26-49f9-94c7-9b5726634bba))}}
+- {{embed ((630d2389-7ee4-4344-a8e4-78695ff8ce95))}}
+- {{embed ((630d2389-270c-4b87-8184-de1af7668f23))}}
+- {{embed ((630d2389-120a-486e-90d5-dc6b572e2f4f))}}
+- {{embed ((630d2389-e821-4953-b764-13733c4f5d23))}}
+- {{embed ((630d2389-ab24-4f04-be25-97c538b1bd7b))}}
+- {{embed ((630d2389-509e-48d7-b16b-6abd2dcbd7a0))}}
+- {{embed ((630d2389-c7ef-47ab-917d-4c70eb00189c))}}
