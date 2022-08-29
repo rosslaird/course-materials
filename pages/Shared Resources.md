@@ -93,8 +93,10 @@
 	- Project 2: Writing
 	- Project 3: Self-awareness
 	  collapsed:: true
+	  id:: 630d3673-7cea-4338-b131-ae15117fe9f6
 		- The self-awareness project is an opportunity to reflect upon the depth of your experience in the course. How did it go? What happened? What did you notice about yourself?  What does your experience suggest to you about what comes next in your own development as a creative person? Here are a few possible considerations:
 		  collapsed:: true
+		  id:: 630d3673-5b9a-49d5-967b-dd2b07f11ca9
 			- What do your experiences in this class teach you about your own creativity?
 			- What does your experience in this course suggest to you about what comes next in your own development as a creative person?
 			- What was surprising or interesting about your experiences in this class?
@@ -118,10 +120,10 @@
 		- {{embed ((630d2389-ab24-4f04-be25-97c538b1bd7b))}}
 		- {{embed ((630d2389-509e-48d7-b16b-6abd2dcbd7a0))}}
 		- {{embed ((630d2389-c7ef-47ab-917d-4c70eb00189c))}}
-	- How long should the self-awareness project be? Good question. How long do you think? If you have committed to the process of this class in any meaningful way, you will have some reactions and emotions about your experiences. How many words would it take you to describe and express these reactions and feelings? How much detail would you need to include in order to give a decent snapshot of your overall experience? Would you need more than a hundred words? For sure. Five hundred? More, probably. More than a thousand? Maybe. More than a million words? Probably not that much. See how it goes. As you will have understood by now, word count is not even a remotely helpful guide to the quality or effectiveness of writing (see the _Tao Te Ching_, for example: one of the world’s greatest and shortest works of literature). Writing is as long as it needs to be.
-	- If you get stuck with this assignment, feel free to reach out to ask questions. But really, getting stuck is part of the process. Getting _unstuck_ is how you activate your creativity.
-	- Because the self-awareness project includes all of your experiences in the course, it is **worth 40 percent of your grade**: 20 percent for _showing up and doing the work_ (see above) in the actual class sessions, and 20 percent for reflecting on your experiences. _Showing up and doing the work_ is not simply about attendance and/or participation. Rather, it’s about engaging with all of the assessment and evaluation criteria listed above.
-	- The self-awareness project is formally due at the end of week 12. See the section on ((630d2389-ff42-4d65-8517-9ecb43db9965)) for more details.
+		- How long should the self-awareness project be? Good question. How long do you think? If you have committed to the process of this class in any meaningful way, you will have some reactions and emotions about your experiences. How many words would it take you to describe and express these reactions and feelings? How much detail would you need to include in order to give a decent snapshot of your overall experience? Would you need more than a hundred words? For sure. Five hundred? More, probably. More than a thousand? Maybe. More than a million words? Probably not that much. See how it goes. As you will have understood by now, word count is not even a remotely helpful guide to the quality or effectiveness of writing (see the _Tao Te Ching_, for example: one of the world’s greatest and shortest works of literature). Writing is as long as it needs to be.
+		- If you get stuck with this assignment, feel free to reach out to ask questions. But really, getting stuck is part of the process. Getting _unstuck_ is how you activate your creativity.
+		- Because the self-awareness project includes all of your experiences in the course, it is **worth 40 percent of your grade**: 20 percent for _showing up and doing the work_ (see above) in the actual class sessions, and 20 percent for reflecting on your experiences. _Showing up and doing the work_ is not simply about attendance and/or participation. Rather, it’s about engaging with all of the assessment and evaluation criteria listed above.
+		- The self-awareness project is formally due at the end of week 12. See the section on ((630d2389-ff42-4d65-8517-9ecb43db9965)) for more details.
 - Approaches and Considerations
 	- [[evidence-based learning environment]]
 	  id:: 630d3673-2253-442f-bb99-9ae89495a594
