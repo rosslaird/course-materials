@@ -14,12 +14,10 @@
 	- Why is this class so different from what I’m used to?
 		- What you’re used to is mainstream, traditional, western, colonial education. More than a hundred years of educational research (starting with John Dewey, Horace Mann, and others) has shown that the methods used in mainstream education are not very effective in cultivating interdisciplinary thinking, creativity, and a whole set of interconnected skills that creative writing broadly requires. So, if we want to do our best to develop our creative writing, we really should not use traditional methods. See the [[evidence-based learning environment]] page for more details.
 	- What if I’m stuck?
-		- That’s fine, and normal, and maybe even good. Creativity depends upon uncertainty, wandering, and the discovery of unintended things. Try to be comfortable in the discomfort. Review the section on  that describes [my approach](https://lab.codered.cloud/basics/my-approach/) and why I _*want*_ you to get a bit stuck. At the same time, if you get so stuck that you become paralyzed, that’s not so great — and, in that case, get in touch and I’ll try to help you get moving again.
-		-
-	- ### Can I view all the writing tutorials in one place?
+		- That’s fine, and normal, and maybe even good. Creativity depends upon uncertainty, wandering, and the discovery of unintended things. Try to be comfortable in the discomfort. Review the section that describes our [[evidence-based learning environment]] to see why I might _want_ you to get a bit stuck. At the same time, if you get so stuck that you become paralyzed, that’s not so great — and, in that case, get in touch and I’ll try to help you get moving again.
+	- Can I view all the writing tutorials in one place?
 		- Yep, [right here](https://lab.codered.cloud/skill-development/).
-		-
-	- ### What is the painting in the background of some of the videos?
+	- What is the painting in the background of some of the videos?
 		- It’s a lithograph by Sam Ash, an Indigenous Canadian artist. It’s called _*Old Woman and Evil Man,*_ and I interpret it as a depiction of how we grapple with the disowned parts of ourselves. Sam Ash is from Sioux Lookout. He was born Ojibwa, then was adopted by a Métis couple after his mother died during childbirth. He began painting at age 6 when he went to the Ontario School for the Deaf. For more than sixty years Sam’s work has explored the depth and meaning of human challenges. This painting in particular resonates with me; as a counsellor focused on addictions and trauma, I work with many people who are called to confront the parts of themselves that are disowned and crying out for help.
 		-
 	- ### Is that your library in the background of some of the videos?
