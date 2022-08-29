@@ -54,6 +54,7 @@
 		- Showing up and doing the work
 		  id:: 630d2389-c7ef-47ab-917d-4c70eb00189c
 - General Timelines for Projects
+  id:: 630d2389-ff42-4d65-8517-9ecb43db9965
   collapsed:: true
 	- There are 3 projects for this class. All of the projects are assigned in week 1 and all are due at the end of week 12. Each project is intended to occupy 4 weeks of the course, and _optional_ due dates (in weeks 4 and 8) are associated with the first 2 projects for that purpose. The 3rd project has a fixed deadline at the end of week 12.
 	- Any project may be submitted at any time until the end of week 12.
@@ -108,4 +109,5 @@
 		- {{embed ((630d2389-ab24-4f04-be25-97c538b1bd7b))}}
 		- {{embed ((630d2389-509e-48d7-b16b-6abd2dcbd7a0))}}
 		- {{embed ((630d2389-c7ef-47ab-917d-4c70eb00189c))}}
-	- The self-awareness project is formally due at the end of week 12. See the section on ((630d2389-6121-4b0d-a6ac-419f85105946)) for more details.
+	-
+	- The self-awareness project is formally due at the end of week 12. See the section on ((630d2389-ff42-4d65-8517-9ecb43db9965)) for more details.
