@@ -16,6 +16,7 @@
 	- [ST7 – Student Conduct (Non-Academic)](https://www.google.com/url?client=internal-element-cse&cx=011299098552178762367:asix4myddgk&q=https://www.kpu.ca/sites/default/files/Policies/ST7%2520Student%2520Conduct%2520Non%2520Academic%2520Policy.pdf&sa=U&ved=2ahUKEwjeh-uKhdv5AhUOLkQIHa2gBzEQFnoECAMQAg&usg=AOvVaw19w1D6Du9IcMisGXh7FHeO)
 	- [SR14 – Sexual Violence and Misconduct](https://www.google.com/url?client=internal-element-cse&cx=011299098552178762367:asix4myddgk&q=https://www.kpu.ca/sites/default/files/Policies/SR14%2520Sexual%2520Violence%2520and%2520Misconduct%2520Policy.pdf&sa=U&ved=2ahUKEwiFz6CBhdv5AhWvBTQIHXD1DDIQFnoECAIQAg&usg=AOvVaw0R7fH6YLsXMBIHiCp2-UQb)
 - Assessment and Evaluation
+  collapsed:: true
 	- The principles and methods used in this class are grounded in a large body of evidence-based [educational research](https://www.rosslaird.com/articles/education/developing-knowledge/) that emphasizes the importance of self-directed, internally-motivated, meaningful learning experiences. The results of that research clearly indicate that an effective learning environment should have the following elements:
 		- _Emotional safety_: a person-centered environment, with emphasis on belonging, being seen, and encouragement for safe exploration (which includes things like making mistakes, trying again, and reversing course)
 		- _Trust_: a focus on healthy relationships, authenticity, consistency, congruence, and dependable and ethical action (for instructors as well as learners)
@@ -32,3 +33,10 @@
 		- Approaching creativity as a set of skills with many dimensions and a long learning curve
 		- Engaging in the reciprocal process of appropriate feedback
 		- Showing up and doing the work
+- General Timelines for Projects
+	- There are 3 projects for this class. All of the projects are assigned in week 1 and all are due at the end of week 12. Each project is intended to occupy 4 weeks of the course, and _optional_ due dates (in weeks 4 and 8) are associated with the first 2 projects for that purpose. The 3rd project has a fixed deadline at the end of week 12.
+	- Any project may be submitted at any time until the end of week 12.
+	- There are no late penalties for projects submitted at any time before the end of week 12 (as such projects are not late until *after* the end of week 12).
+	- All projects are due at the end of week 12 (Sunday, midnight). Projects submitted after the end of week 12 will not be graded.
+	- If circumstances beyond your control cause you to miss the week 12 deadline, please contact the instructor *before* the end of week 12. After the end of week 12, university policies and deadlines come into play which may make it difficult to accommodate learners who seek consideration for difficult circumstances.
+	- When learners are penalized for submitting projects that take longer than expected or intended, they learn more about compliance and control than they do about motivation and exploration. At the same time, this class is taking place in the context of a traditional university setting in which semester deadlines exist and grades must be submitted within a fixed time frame.
