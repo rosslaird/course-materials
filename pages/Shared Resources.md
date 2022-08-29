@@ -72,6 +72,7 @@
 		- November 1—30: project 3
 		- **November 30: all projects due**
 - Multiple Project Reviews
+  id:: 630d2389-fb4c-49e2-a2d7-9881a9cc4510
   collapsed:: true
 	- Writing is an iterative process, and later drafts are often better than previous ones (especially if you are attentive to [[feedback]]. To encourage iteration and improvement, you are welcome to submit any project as many times as you like — until the end of week 11 (at which point the week 12 deadline is too close for further project reviews by the instructor and effective responses by the learner).
 	- You can submit any project as many times as you like — until the end of week 11 (at which point the week 12 deadline is too close for further project reviews by the instructor and effective responses by the learner).

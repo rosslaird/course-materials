@@ -8,12 +8,10 @@
 	- Can I really write whatever I want?
 		- More or less. Your writing should come from _*you*_. However, I do suggest some guidelines and cautions about the scope of writing for projects on the project pages. Review those in the ((630d23ec-af97-40a4-95ab-bf3d7f85664d)) section.
 	- What happens if I miss the final deadline for projects?
-		- You will get zero on any projects that I have not seen. This situation arises because the semester does have to come to an end at some point, I do need to submit grades, and we all run out of time. The final due date is the latest date by which I am able to receive projects and still have enough time to review them and submit grades. Review the ((630d2389-ff42-4d65-8517-9ecb43db9965)) page for more details.
-		-
-	- ### Can I submit my assignments multiple times?
-		- You can submit any project as many times as you like—until the final deadline. In fact, I encourage you to submit your projects more than once. Writing is an iterative process, after all, and later drafts are often better than previous ones (especially if you ask for [feedback](https://lab.codered.cloud/basics/on-feedback/) on these drafts). I will review each new draft that you send — until the final deadline. Typically, your grade will improve after each draft (provided you ask for feedback and that you are attentive to it). Once the final deadline has passed, the project submission period is closed and you will no longer be able to send new drafts. This also means that you will not be able to improve your grade on a project after the final deadline has passed.
-		-
-	- ### Why is this class so different from what I’m used to?
+		- You will get zero on any projects that I have not seen. This situation arises because the semester does have to come to an end at some point, I do need to submit grades, and we all run out of time. The final due date is the latest date by which I am able to receive projects and still have enough time to review them and submit grades. Review the ((630d2389-ff42-4d65-8517-9ecb43db9965)) section for more details.
+	- Can I submit my assignments multiple times?
+		- You can submit any project as many times as you like—until the final deadline. Review the section on ((630d2389-fb4c-49e2-a2d7-9881a9cc4510)).
+	-
 		- What you’re used to is mainstream, traditional, western, colonial education. More than a hundred years of educational research (starting with John Dewey, Horace Mann, and others) has shown that the methods used in mainstream education are not very effective in cultivating interdisciplinary thinking, creativity, and a whole set of interconnected skills that creative writing broadly requires. So, if we want to do our best to develop our creative writing, we really should not use traditional methods. Most of the pages in the Basics Menu above have more information on this. For a particular emphasis on grading and its alternatives, see the [Assessment](https://lab.codered.cloud/basics/on-assessment/) page.
 		-
 	- ### What if I’m stuck?
