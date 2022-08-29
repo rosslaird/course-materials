@@ -18,9 +18,9 @@
 - Assessment and Evaluation
 	- The principles and methods used in this class are grounded in a large body of evidence-based [educational research](https://www.rosslaird.com/articles/education/developing-knowledge/) that emphasizes the importance of self-directed, internally-motivated, meaningful learning experiences. The results of that research clearly indicate that an effective learning environment should have the following elements:
 		- _Emotional safety_: a person-centered environment, with emphasis on belonging, being seen, and encouragement for safe exploration (which includes things like making mistakes, trying again, and reversing course)
-		- *Trust*: a focus on healthy relationships, authenticity, consistency, congruence, and dependable and ethical action (for instructors as well as learners)
-		- *Self-awareness*: encouragement of insight, personal knowledge, open pathways, comfort with discomfort, and connecting self to others
-		- *Empathy*: an emotionally safe community, with safe feelings and processes, an emphasis on positive change, and encouragement of emotional openness
+		- _Trust_: a focus on healthy relationships, authenticity, consistency, congruence, and dependable and ethical action (for instructors as well as learners)
+		- _Self-awareness_: encouragement of insight, personal knowledge, open pathways, comfort with discomfort, and connecting self to others
+		- _Empathy_: an emotionally safe community, with safe feelings and processes, an emphasis on positive change, and encouragement of emotional openness
 	- The learning environment in this class is designed to implement the principles outlined above. In turn, methods of evaluation, grading, and assessment follow the same principles. Here are the specific evaluation criteria that are used for each project (they are the same for each project):
 		- Taking personal responsibility for the motivation and self-awareness required for meaningful learning
 		- Challenging oneself, especially with the discomfort of encountering new things
