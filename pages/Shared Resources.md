@@ -68,10 +68,10 @@
 		- Multiple submissions require the learner to engage with the feedback process. For further details, please review the [[feedback]] page. Asking about the projected grade for the draft of a given project is reasonable as part of a request for feedback (as outlined on the [[feedback]] page. However, please do not simply ask about projected grades. Consult the [[feedback]] page for details about how to ask for feedback and how to use it.
 	- A Note of Caution
 		- You can write about anything you want. But please consider that any subject that is challenging for you to talk about openly (such as personal trauma) is a subject you should probably not write about. On the other hand, powerful personal experiences often provide excellent source material for writing, so it may be difficult for you to decide what to do. First, please use your judgment about how best to keep yourself emotionally safe within and beyond the classroom. Second, please discuss your plans (or your concerns) with me if you decide to write about personal or provocative subjects. In particular, be cautious of subjects involving violence, abuse, trauma, death, mental illness, and related themes (whether they happened to you, happened to someone else, or are imagined). These subjects reliably activate strong emotions and are often unsafe if not handled properly. While no subject is absolutely off-limits in this class, there are many subjects for which there is a risk of harm to you, to me, to others in the class, or to our shared communities. We must be respectful and careful of ourselves and our relationships with others. Please ask the instructor for guidance if you are uncertain.
-	- Project 1
-		-
 	- Projects
-		- Project 3 (Self-awareness)
+		- Project 1: Reading
+		- Project 2: Writing
+		- Project 3: Self-awareness
 			- The self-awareness project is an opportunity to reflect upon the depth of your experience in the course. How did it go? What happened? What did you notice about yourself?  What does your experience suggest to you about what comes next in your own development as a creative person? Here are a few possible considerations:
 				- What do your experiences in this class teach you about your own creativity?
 				- What does your experience in this course suggest to you about what comes next in your own development as a creative person?
@@ -96,4 +96,3 @@
 			- {{embed ((630d2389-ab24-4f04-be25-97c538b1bd7b))}}
 			- {{embed ((630d2389-509e-48d7-b16b-6abd2dcbd7a0))}}
 			- {{embed ((630d2389-c7ef-47ab-917d-4c70eb00189c))}}
-	- Project 2
